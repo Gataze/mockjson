@@ -43,6 +43,7 @@
         "body":"Quia optio ipsam molestiae quibusdam aliquid laborum error, reiciendis exercitationem aliquid laborum, fugit iste vitae laboriosam culpa enim.",
         "url":"/images/accesories/helmet.jpg",
         "price": 79,
+        "type": "helmet",
         "id":4
       },
       {
@@ -50,6 +51,7 @@
         "body":"Quia optio ipsam molestiae quibusdam aliquid laborum error, reiciendis exercitationem aliquid laborum, fugit iste vitae laboriosam culpa enim.",
         "url":"/images/accesories/saddle.jpg",
         "price": 99,
+        "type": "saddle",
         "id":5
       },
       {
@@ -57,6 +59,7 @@
         "body":"Quia optio ipsam molestiae quibusdam aliquid laborum error, reiciendis exercitationem aliquid laborum, fugit iste vitae laboriosam culpa enim.",
         "url":"/images/accesories/water-bottle.jpg",
         "price": 29,
+        "type": "bottle",
         "id":6
       }
     ],
